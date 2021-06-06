@@ -1,0 +1,39 @@
+html{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+header p{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align:center;
+}
+a{
+    color:aquamarine;
+    font-size: 16px;
+    padding-bottom: 60px;
+}
+#main-line{
+    font-weight: 300;
+    font-size: 42px;
+    color:white;
+}
+#tag-line{
+    font-size:21px;
+    color:gray;
+
+}
+.first-section img{
+    width:800px;
+    height: 500px;
+}
+.coming-soon img{
+    padding-top: 80px;
+    height: 60px;
+}
+.video{
+    padding-top: 70px;
+}
